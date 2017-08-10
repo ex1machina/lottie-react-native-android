@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/Users/mcadelago/WebstormProjects/vault/fdx-core/native/node_modules/lottie-react-native/lib/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
-        "source": "/Users/mcadelago/.android/build-cache/f7d9280c35fdab7cc00d52b7c7af4cfff56bfab9/output/res/layout-v21/notification_action.xml"
+        "merged": "/Users/leland_richardson/code/lottie-react-native/lib/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/leland_richardson/.android/build-cache/ac58b86de878933b05964996701a18d8cd20820b/output/res/layout-v21/notification_action_tombstone.xml"
     },
     {
-        "merged": "/Users/mcadelago/WebstormProjects/vault/fdx-core/native/node_modules/lottie-react-native/lib/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
-        "source": "/Users/mcadelago/.android/build-cache/f7d9280c35fdab7cc00d52b7c7af4cfff56bfab9/output/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "/Users/leland_richardson/code/lottie-react-native/lib/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/leland_richardson/.android/build-cache/ac58b86de878933b05964996701a18d8cd20820b/output/res/layout-v21/notification_template_custom_big.xml"
     },
     {
-        "merged": "/Users/mcadelago/WebstormProjects/vault/fdx-core/native/node_modules/lottie-react-native/lib/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
-        "source": "/Users/mcadelago/.android/build-cache/f7d9280c35fdab7cc00d52b7c7af4cfff56bfab9/output/res/layout-v21/notification_template_icon_group.xml"
+        "merged": "/Users/leland_richardson/code/lottie-react-native/lib/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/leland_richardson/.android/build-cache/ac58b86de878933b05964996701a18d8cd20820b/output/res/layout-v21/notification_action.xml"
     },
     {
-        "merged": "/Users/mcadelago/WebstormProjects/vault/fdx-core/native/node_modules/lottie-react-native/lib/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
-        "source": "/Users/mcadelago/.android/build-cache/f7d9280c35fdab7cc00d52b7c7af4cfff56bfab9/output/res/layout-v21/notification_template_custom_big.xml"
+        "merged": "/Users/leland_richardson/code/lottie-react-native/lib/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/leland_richardson/.android/build-cache/ac58b86de878933b05964996701a18d8cd20820b/output/res/layout-v21/notification_template_icon_group.xml"
     }
 ]
